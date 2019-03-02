@@ -1,15 +1,13 @@
 
 $baseurl: '{{ site.baseurl }}';
-$grey-color: #828282;
 
+@import 'gruvbox-light';
 @import 'lean_tufte';
+
+$grey-color: $gb-lm-bg0;
 
 main {
   margin-top: 20px;
-}
-
-body {
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
 }
 
 amp-img {
