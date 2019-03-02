@@ -1,7 +1,7 @@
-/* Import ET Book styles
-   adapted from https://github.com/edwardtufte/et-book/blob/gh-pages/et-book.css */
+/* The Tufte scss */
 
 @charset "UTF-8";
+@import 'gruvbox-light';
 
 /* Tufte CSS styles */
 html { font-size: 15px; }
@@ -11,8 +11,8 @@ body { width: 87.5%;
        margin-right: auto;
        padding-left: 12.5%;
        font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
-       background-color: #fffff8;
-       color: #111;
+       background-color: $gb-lm-bg0;
+       color: $gb-lm-fg0;
        max-width: 1400px;
        counter-reset: sidenote-counter; }
 
@@ -45,7 +45,7 @@ p.subtitle { font-style: italic;
 
 .numeral { font-family: et-book-roman-old-style; }
 
-.danger { color: red; }
+.danger { color: $gb-lm-dark-red; }
 
 article { position: relative;
           padding: 5rem 0rem; }
@@ -113,7 +113,7 @@ figcaption { float: right;
 figure.fullwidth figcaption { margin-right: 24%; }
 
 /* Links: replicate underline that clears descenders */
-a:link, a:visited { color: inherit; }
+a:link, a:visited { color: $gb-lm-light-blue; }
 
 a:link { text-decoration: none;
          background: -webkit-linear-gradient(#fffff8, #fffff8), -webkit-linear-gradient(#fffff8, #fffff8), -webkit-linear-gradient(#333, #333);
@@ -159,7 +159,6 @@ img { max-width: 100%; }
 .sidenote-number { counter-increment: sidenote-counter; }
 
 .sidenote-number:after, .sidenote:before { content: counter(sidenote-counter) " ";
-                                           font-family: et-book-roman-old-style;
                                            position: relative;
                                            vertical-align: baseline; }
 
@@ -175,8 +174,7 @@ p, footer, table, div.table-wrapper-small, div.supertable-wrapper > p, div.bookt
 
 div.fullwidth, table.fullwidth { width: 100%; }
 
-div.table-wrapper { overflow-x: auto;
-                    font-family: "Trebuchet MS", "Gill Sans", "Gill Sans MT", sans-serif; }
+div.table-wrapper { overflow-x: auto; }
 
 @media screen and (max-width: 760px) { p, h1, h2, h3, footer { width: 90%; }
                                        pre.code { width: 87.5%; }

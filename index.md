@@ -23,6 +23,6 @@ Self-made shaving oil
 Wet shaving essentials equipment guide + why pick what & where
 
 Possible recipes for shaving oil gifts
-Allgemeine Überlegungen und Anleitung: https://gentsbible.de/rasieroel-selber-machen-anleitung/
-Intimrasur mit Rasieröl: https://blackbeards.de/rasur/tipps-intimrasur#article-second
-DIY Rasieröl & Aftershave: https://www.diecheckerin.de/diy-kosmetik-geschenkideen-fuer-maenner/
+[Allgemeine Überlegungen und Anleitung](https://gentsbible.de/rasieroel-selber-machen-anleitung/)
+[Intimrasur mit Rasieröl](https://blackbeards.de/rasur/tipps-intimrasur#article-second)
+[DIY Rasieröl & Aftershave](https://www.diecheckerin.de/diy-kosmetik-geschenkideen-fuer-maenner/)
