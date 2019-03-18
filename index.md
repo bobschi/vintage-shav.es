@@ -19,7 +19,7 @@ So, Vintage Shaving: what is it, and why should you care?
 
 First off, we're talking about _vintage shaving_ and not _wet shaving_ because we are explicitly not including cartridge or disposable razors, and other more modern inventions like shaving foams in a can, that are supposed to make your shaves faster and more convenient, but do so only at the cost of creating a ton of waste, if they even achieve that goal.
 
-For us, vintage shaving is a set of items and techniques that have been around for a long time, and have been continuously developed and refined over time. 
+For us, vintage shaving is a set of items and techniques that have been around for a long time, and have been continuously developed and refined over time. Unfortunately, with the rise of consumerism and modern manufacturing techniques, a lot of those techniques have not been handed down to younger generations because more modern 
 
 - time efficiency
 - cost
